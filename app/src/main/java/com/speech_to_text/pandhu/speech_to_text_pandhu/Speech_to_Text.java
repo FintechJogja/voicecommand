@@ -46,7 +46,7 @@ public class Speech_to_Text extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                promptSpeechInput();
+//                promptSpeechInput();
             }
         });
 
