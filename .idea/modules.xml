@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Speech_To_Text_Pandhu.iml" filepath="$PROJECT_DIR$/Speech_To_Text_Pandhu.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voicecommand.iml" filepath="$PROJECT_DIR$/voicecommand.iml" />
     </modules>
   </component>
 </project>
